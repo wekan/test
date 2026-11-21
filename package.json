@@ -1,0 +1,9 @@
+{
+  "name": "wekan-test",
+  "private": true,
+  "description": "Some WeKan REST API test code",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
